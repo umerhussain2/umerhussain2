@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]()
+[![MasterHead](https://camo.githubusercontent.com/3775066288b8f507fb1d03094006fe1246964a0d7fa1577ddf384641d6a8f638/68747470733a2f2f332e62702e626c6f6773706f742e636f6d2f2d6442366e644b71494175492f586457654f41534f3541492f41414141414141414e5a412f4d536254396d683662756b786b492d74716e755f474152495a5a5635574e566851434c63424741735948512f73313630302f696d616765312e676966)]()
 <h1 align="center">Hi 👋, I'm Muhammad Umer Hussain</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif"  />
